@@ -68,6 +68,7 @@ header .menu{
     width: 600px;
     max-width: 80%;
     z-index: 1;
+    text-align: justify;
 }
 .slider .list .item .content p:nth-child(1){
     text-transform: uppercase;
